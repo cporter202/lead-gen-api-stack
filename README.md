@@ -5,6 +5,19 @@ Stop paying **$99/month for Apollo** or **$15k/year for ZoomInfo**. Build your o
 
 This repository is a curated subset of the [API-mega-list](https://github.com/cporter202/API-mega-list), specifically focused on high-intent lead generation, B2B prospecting, and automated sales outreach.
 
+<!-- APIMESA-FEATURED-START -->
+## ⭐ Featured: APIMesa
+
+<p align="center">
+  <a href="https://apimesa.com" target="_blank" rel="noopener">
+    <img src=".github/assets/apimesa-promo-banner.png" alt="APIMesa — Pay-Per-Call APIs for AI, Scraping & Data. 150+ APIs, one API key, live playground at apimesa.com" width="100%">
+  </a>
+</p>
+
+**[APIMesa](https://apimesa.com)** is a pay-per-call API marketplace with 150+ live APIs for AI, scraping, data, SEO, lead generation, media, and developer utilities — one API key, clear per-call credit pricing, and a live playground for every API.
+
+<!-- APIMESA-FEATURED-END -->
+
 ---
 
 ### ⚡ Quick Start: Extract 1,000 Leads in 5 Lines of Code
