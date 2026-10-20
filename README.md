@@ -53,6 +53,13 @@ print(f"Extracted {len(response['data'])} leads!")
 | :--- | :--- | :--- |
 | [✨ Leads Finder - $1.5/1k Leads](https://apify.com/code_crafter/leads-finder?fpr=p2hrc6) | Ultimate Apollo Alternative. Emails, phones, LinkedIn profiles. | `Best Value` |
 | [💎 Leads Scraper ✅ Like Apollo](https://apify.com/pipelinelabs/lead-scraper-apollo-zoominfo-lusha-ppe?fpr=p2hrc6) | 90M+ Verified Database. Similar to ZoomInfo & Lusha. | `High Volume` |
+| [Lead Contact Extractor API](https://apimesa.com) | Scans any public web page and returns its email addresses, phone numbers, and social profile links as clean structured data. | `APIMesa` |
+| [Email Finder API](https://apimesa.com) | Finds a person's work email from their name and company domain using MX validation, homepage scraping, and real SMTP verification. | `APIMesa` |
+| [Local Lead Finder](https://apimesa.com) | Find real local businesses for any trade in any city — names, addresses, phones, and websites pulled live from OpenStreetMap data. | `APIMesa` |
+| [Bulk Email Validator](https://apimesa.com) | Validate up to 100 emails in one call with syntax, MX-record, disposable-domain, and role-based checks — 30 credits per call. | `APIMesa` |
+| [Contact Extract API](https://apimesa.com) | Extract emails, URLs, and US-style phone numbers from pasted text without a model call. | `APIMesa` |
+| [Email Validate API](https://apimesa.com) | Normalize and validate email syntax, returning local and domain parts. | `APIMesa` |
+| [Company & Contact Intelligence](https://apimesa.com) | Crawl a company site to assemble public business identity, emails, phones, addresses, social profiles, technologies, and contact-page evidence. | `APIMesa` |
 
 ---
 
